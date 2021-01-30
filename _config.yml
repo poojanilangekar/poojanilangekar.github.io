@@ -17,13 +17,13 @@ baseurl: ""
 title: Pooja Nilangekar
 
 # Short description of your site
-description: Rich Pauloo's nerd blog and scientific research page.
+# description: 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About: "aboutme"
+# navbar-links:
+  # About: "aboutme"
   #Research: "research"
   #Projects:
   #  - textme: "https://github.com/richpauloo/textme"
@@ -113,7 +113,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+# timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
